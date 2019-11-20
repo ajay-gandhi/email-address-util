@@ -1,0 +1,29 @@
+{
+  "name": "email-address-util",
+  "version": "1.0.0",
+  "description": "Utilities for working with email addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay-gandhi/email-util.git"
+  },
+  "keywords": [
+    "email",
+    "validate",
+    "extract",
+    "address",
+    "utility"
+  ],
+  "author": "Ajay Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay-gandhi/email-util/issues"
+  },
+  "homepage": "https://github.com/ajay-gandhi/email-util#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
