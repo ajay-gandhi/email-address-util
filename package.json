@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ajay-gandhi/email-util#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^29.3.1"
   }
 }
